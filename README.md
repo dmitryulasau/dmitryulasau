@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/dmitry-ulasau/" target="blank"><img align="center" src="https://res.cloudinary.com/dulasau/image/upload/v1682296831/LinkedIN_ijgnyd.svg" alt="" height="30" width="40" /></a>
 <a href="https://github.com/dmitryulasau" target="blank"><img align="center" src="https://res.cloudinary.com/dulasau/image/upload/v1682296959/Github_brnomp.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dmitrushok/" target="blank"><img align="center" src="https://res.cloudinary.com/dulasau/image/upload/v1682296959/Instagram_rzqx1w.svg" alt="" height="30" width="40" /></a>
-<a href="mailto:dmitrushok@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dulasau/image/upload/v1682296959/Gmail_fnylkt.svg" alt="" height="30" width="40" /></a>
+<a href="mailto:dmitrushok@gmail.com"><img align="center" src="https://res.cloudinary.com/dulasau/image/upload/v1682296959/Gmail_fnylkt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
