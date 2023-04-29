@@ -13,6 +13,7 @@
 - [Weather](https://dmitryulasau.github.io/Weather_Service_JS/) - Check weather in your city ☀
 - [Guess a number](https://ulasau-guess-my-number.netlify.app/) - Guess a number :video_game:
 - [Pig game](https://ulasau-pig-game.netlify.app/) - Play with a friend to get a 💯 
+- [HANGMAN](https://hangman-dmitryulasau.vercel.app/) - Classic hangman game with a taste 🙅🏽‍♂️
 
 
 ## Contact Me 📬:
