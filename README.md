@@ -6,14 +6,16 @@
 👩🏻‍💻 I'm a Software Developer with a passion for Science and Travel.<br>
 
 ## My Projects ⚙:
+- [HANGMAN](https://hangman-dmitryulasau.vercel.app/) - Classic hangman game with a taste 🙅🏽‍♂️
 - [Omnifood](https://omnifood-ulasau.netlify.app/) - Food delivery service 🍔
 - [BRAINGAIN](https://braingain-ulasau.netlify.app/) - Reading list 📚
+- [PETS](https://rolling-scopes-school.github.io/dmitryulasau-JSFE2023Q1/shelter/index.html) - Pets 🐕
 - [ChatAI](https://chat-ai-git-main-dmitryulasau.vercel.app/) - Ask anything 🤖
 - [Task Tracker](https://task-tracker-dmitryulasau.vercel.app/login) - Create you tasks 📝
 - [Weather](https://dmitryulasau.github.io/Weather_Service_JS/) - Check weather in your city ☀
 - [Guess a number](https://ulasau-guess-my-number.netlify.app/) - Guess a number :video_game:
 - [Pig game](https://ulasau-pig-game.netlify.app/) - Play with a friend to get a 💯 
-- [HANGMAN](https://hangman-dmitryulasau.vercel.app/) - Classic hangman game with a taste 🙅🏽‍♂️
+
 
 
 ## Contact Me 📬:
