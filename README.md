@@ -5,9 +5,8 @@
 # About Me :boy::
 👩🏻‍💻 I'm a Software Developer with a passion for Science and Travel.<br>
 
-## My Projects ⚙:
+#### My Projects ⚙:
 - [PORTFOLIO](https://portfolio-du-dmitryulasau.vercel.app/) - My Portfolio 💼
-
 - [HANGMAN](https://hangman-dmitryulasau.vercel.app/) - Classic hangman game with a taste 🙅🏽‍♂️
 - [Omnifood](https://omnifood-ulasau.netlify.app/) - Food delivery service 🍔
 - [BRAINGAIN](https://braingain-ulasau.netlify.app/) - Reading list 📚
